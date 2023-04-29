@@ -1,5 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Muhammed Hesham's profile!
@@ -19,7 +18,7 @@
 
 
 ### Connect with Me :
-<a href="https://linkedin.com/in/muhammed-hesham" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammed-hesham-12b100252/" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
